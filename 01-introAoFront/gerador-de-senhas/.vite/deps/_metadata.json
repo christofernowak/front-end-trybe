@@ -1,0 +1,13 @@
+{
+  "hash": "70c5af10",
+  "browserHash": "63181f44",
+  "optimized": {
+    "nanoid": {
+      "src": "../../src/node_modules/nanoid/index.browser.js",
+      "file": "nanoid.js",
+      "fileHash": "bb0d0629",
+      "needsInterop": false
+    }
+  },
+  "chunks": {}
+}
